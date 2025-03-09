@@ -1,4 +1,4 @@
-# ⚙️ Machine-Learning-2 – MNIST Handwritten Digit Recognition
+# ⚙️ Machine-Learning-2 – MNIST Handwritten Digit Recognition and Streamlit app.py 
 
 ## 🔎 Overview
 This project demonstrates a complete machine learning workflow for classifying handwritten digits using the MNIST dataset. I compare **four** different models—**Random Forest**, **Extra Trees**, **Support Vector Machine (SVM)** with an RBF kernel, and **Linear SVC**—to determine which approach balances accuracy, robustness, and computational efficiency most effectively. Additionally, a **Streamlit** application is provided for real-time digit prediction, where users can draw digits directly in their browser.
